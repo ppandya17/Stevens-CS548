@@ -1,0 +1,3 @@
+This is a university project which is parted in different assignments. 
+In this project I have created a clinic app which handles patients, their treatments and treatments provider. 
+This project is based on JAXB and EJB. and is backed by postgreSQL.
